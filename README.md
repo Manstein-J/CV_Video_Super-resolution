@@ -1,6 +1,8 @@
 ## Overview
 Using super-resolution techniques, such as U-Net and SRGAN, to build a video super-resolution model.
+
 This Project is part of the course project for MIT 6.8300 Advances in Computer Vision.
+
 All development and data originally stored on Google Drive and Google Colab.
 
 ## Intro and Structure
