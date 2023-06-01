@@ -1,5 +1,8 @@
-# CV_Video_Super-resolution
-Computer Vision project building a video super-resolution model from U-Net and SRGAN
+## Overview
+Using super-resolution techniques, such as U-Net and SRGAN, to build a video super-resolution model.
+
+This Project is part of the course project for MIT 6.8300 Advances in Computer Vision.
+
 All development and data originally stored on Google Drive and Google Colab.
 
 ## Intro and Structure
@@ -15,8 +18,11 @@ All development and data originally stored on Google Drive and Google Colab.
 10. Generate the final SR video. That's the 2nd version of SR video with temporal filtering technique.
 
 ##  Data
-HR and LR Image Dataset used to train the U-Net model. All images have size 256 * 256.
-https://drive.google.com/drive/folders/1P9uBlGoEbSs7Y4U5DTxlg6TPNG02sBEg?usp=share_link
+Kaggle pulic HR and LR image dataset is used to train both the U-net and SRGAN model. 
 
-## To be completed
-SRGAN model update
+Source: Aditya Chandrasekhar, “Image super resolution,” Kaggle. Available: https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution. Aug. 2020.![image](https://github.com/Manstein-J/CV_Video_Super-resolution/assets/47071387/814d5cbf-04ec-46c4-a40c-fd8ef87100d8)
+
+## SRGAN model 
+Source: Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+
+A SRGAN model that's almost identical to the paper above was trained with the same training image dataset that's used for U-net. 
