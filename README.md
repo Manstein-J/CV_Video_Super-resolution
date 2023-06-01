@@ -20,7 +20,7 @@ All development and data originally stored on Google Drive and Google Colab.
 ##  Data
 Kaggle pulic HR and LR image dataset is used to train both the U-net and SRGAN model. 
 
-Source: Aditya Chandrasekhar, “Image super resolution,” Kaggle. Available: https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution. Aug. 2020.![image](https://github.com/Manstein-J/CV_Video_Super-resolution/assets/47071387/814d5cbf-04ec-46c4-a40c-fd8ef87100d8)
+Source: Aditya Chandrasekhar, “Image super resolution,” Kaggle. Available: https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution. Aug. 2020.
 
 ## SRGAN model 
 Source: Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
