@@ -26,3 +26,6 @@ Source: Aditya Chandrasekhar, “Image super resolution,” Kaggle. Available: h
 Source: Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 
 A SRGAN model that's almost identical to the paper above was trained with the same training image dataset that's used for U-net. 
+
+## Results Demo
+For demonstration, please go to https://docs.google.com/presentation/d/1YSsu3zNezw-1LPxYm1epp52qNcqd33nW/edit?usp=sharing&ouid=108352897844425359010&rtpof=true&sd=true
